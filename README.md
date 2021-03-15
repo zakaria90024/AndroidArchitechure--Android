@@ -15,6 +15,7 @@ Firebase Cloud FireStore CURD, Create, Read, Update, Search.
 <table style="width:100%">
  <tr>
     <th><img src="https://user-images.githubusercontent.com/38391658/111140430-852b2b00-85ac-11eb-84f4-f332276d8458.png" alt="get data" width="208" height="428"></th>
+    <th><img src="https://user-images.githubusercontent.com/38391658/111142074-7c3b5900-85ae-11eb-9319-ace7cfa2690b.png" alt="get data" width="528" height="208"></th>
    
   </tr>
 
